@@ -49,3 +49,27 @@
 | <img width="160px" src="https://avatars.githubusercontent.com/u/107177636?v=4" /> | <img width="160px" src="https://avatars.githubusercontent.com/u/55499429?v=4" /> | <img width="160px" src="https://avatars.githubusercontent.com/hayong39" /> | <img width="160px" src="https://avatars.githubusercontent.com/Yyang-YE" /> | <img width="160px" src="https://avatars.githubusercontent.com/Eric-HAN-01"/> |
 | [@SongMinQQ](https://github.com/SongMinQQ) | [@alotofhee](https://github.com/alotofhee) | [@hayong39](https://github.com/hayong39) | [@Yyang-YE](https://github.com/Yyang-YE) | [@Eric-HAN-01](https://github.com/Eric-HAN-01) |
 | 소셜 로그인 <br> 마이페이지 <br> 메인페이지 <br> 혜택 즐겨찾기 <br> 혜택 상세 페이지 <br> 관리자 페이지 <br> PWA | 지도 서비스 <br> 디자인 시스템 <br> 매장 상세 소모달 <br> 사용자 개인 통계 <br> 검색 기능 | 인프라 관리 <br> 소셜 로그인 기능 <br> 제휴처 목록 조회 기능 <br> 제휴처 매장 추천 기능 <br> 로깅 기능 | 통계 관리 기능 <br> 인프라 관리 <br> 검색 기능 <br> 즐겨찾기 기능 <br> 로깅 기능 | 데이터 전처리 <br> 피드백 등록 및 조회 기능 <br> 나의 위치 관리 기능 <br> 지도 반경 필터링 기능 <br> 매장 마커 클러스터링 |
+
+## 🛠System Architecture
+
+<div align="center">
+<img src="./images/system_architecture.png" />
+</div>
+
+## 📈Service Architecture
+
+<div align="center">
+<img src="./images/service_architecture.png" />
+</div>
+
+## 📃Information Architecture
+
+<div align="center">
+<img src="./images/information architecture.png" />
+</div>
+
+## 🗂Repositories
+
+[**Frontend**](https://github.com/MapChillE/uble-fe)
+
+[**Backend**](https://github.com/MapChillE/uble-be)
